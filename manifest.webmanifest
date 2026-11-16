@@ -1,0 +1,18 @@
+{
+  "name": "EDITFORGE Studio",
+  "short_name": "EDITFORGE",
+  "description": "Gaming, Anime AMV & Creative Video Editor",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0b12",
+  "theme_color": "#0b0d16",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
